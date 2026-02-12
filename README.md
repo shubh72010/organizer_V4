@@ -123,12 +123,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Shubh Patel** - [@shubh72010](https://github.com/shubh72010)
+**Flakesofsmth** - [@shubh72010](https://github.com/shubh72010)
 
 ---
 
 ## 🎉 Get Started Today!
 
 Transform your chaotic file system into an organized paradise. Clone, configure, and run Organizer V4 now!
-
-**Questions?** Feel free to open an issue or reach out. Happy organizing! 🎯
