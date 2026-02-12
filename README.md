@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Code Style](https://img.shields.io/badge/Code%20Style-Professional-brightgreen?style=flat-square)](#)
 
 ---
 
